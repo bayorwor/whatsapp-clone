@@ -15,7 +15,7 @@ UI clone of [Whatsapp](https://www.whatsapp.com/)
 This project was built during a training session and improved upon it after the training.
 
 <p>
-Firebase was used as Backend as a service for the application. Tools used in firebase include firestore, authntication and storage as a bucket for images
+This app expsoe trainees to better understanding of basic flutter widgets and others
 </p>
 
 ## Art
