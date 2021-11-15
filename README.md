@@ -23,10 +23,12 @@ Firebase was used as Backend as a service for the application. Tools used in fir
 <br>
    
 <tr>
-    <td><img align="left" width="350" alt="Screen Shot 2021-10-21 at 10 24 40 PM" src="https://user-images.githubusercontent.com/49689322/138366134-a7716b4b-7ff8-4230-9845-f2058a526d1f.png" />
-    <img align="left" width="350" alt="Screen Shot 2021-10-21 at 10 25 07 PM" src="https://user-images.githubusercontent.com/49689322/138366189-4153b351-f2e1-49ed-b534-0efc869aa834.png" />
-    <img  align="left"  width="350" alt="Screen Shot 2021-10-21 at 10 25 30 PM" src="https://user-images.githubusercontent.com/49689322/138366208-c72ff0b4-45b3-4c0d-90be-761f6da00628.png" />
-    <img width="350" alt="Screen Shot 2021-10-21 at 10 29 31 PM" src="https://user-images.githubusercontent.com/49689322/138491451-a945dfbd-20ed-4779-b0ac-4ad8a1308e47.png" /></td> 
+    <td>
+      <img width="359" align="left" alt="Screen Shot 2021-11-15 at 3 58 24 PM" src="https://user-images.githubusercontent.com/49689322/141814849-05aa03c9-4adb-4cfd-842d-ba61638b5be0.png">
+<img width="361" align="left" alt="Screen Shot 2021-11-15 at 3 59 06 PM" src="https://user-images.githubusercontent.com/49689322/141814881-ecf0aa2a-dfd8-44e1-8698-6c6d694401b7.png">
+<img width="356" align="left" alt="Screen Shot 2021-11-15 at 3 59 23 PM" src="https://user-images.githubusercontent.com/49689322/141814912-14b9965a-0da6-4313-813c-3adc5e01cce5.png">
+<img width="357" alt="Screen Shot 2021-11-15 at 3 59 50 PM" src="https://user-images.githubusercontent.com/49689322/141814932-26335c53-2ec3-4fb1-bee9-1f8c5440daab.png">
+   </td> 
 </tr>
 ## Getting Started
 
